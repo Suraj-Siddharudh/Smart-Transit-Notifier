@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="get_events">Get Events</string>
+    <string name="upcomingEvent">Upcoming Event Plan</string>
+</resources>
